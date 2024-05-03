@@ -1,9 +1,30 @@
-<h1>Projeto Spring boot com MongoDB </h1>
+<h1 align="center">Projeto Spring boot com MongoDB </h1>
+<p align="center" >
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=git,spring,mongo" />
+        </a>
+</p>
 
 <h2>Sobre o projeto</h2>
 
+<p>Projeto construído no curso "Java COMPLETO Programação Orientada a Objetos + Projeto ~Nélio alves".
+
+<p> <a href="https://www.udemy.com/course/java-curso-completo"/>  << Link do curso >> </a> </p>
+
+<h2>Características do projeto:</h2>
+
+<p> Projeto consciste em integrar banco de dados noSQL utilizando mongoDb </p>
+
 <h2>Instalação e execução do projeto</h2>
 
+p>Você precisara ter o Java rodando em sua maquina </p>
+
+<p>Clone o projeto em sua máquina.</p>
+
+<p>Abra-o de preferência com a IDE inteliJ e atualize as dependências do projeto (caso elas n atualizem automaticamente).</p>
+
+<p>Banco de dados mongoDb instalado <em> Observação: certifique-se que o mongoDb esteja rodando na porta 27017 e possua uma Coleção "workshop_mongo" </p> 
+  
 <h2> API Endpoints </h2>
 A api fornece os seguintes endpoints:
 
